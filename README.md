@@ -8,3 +8,9 @@
 nemocutegirl/nemocutegirl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+$ curl -I https://www.my-server.com/images/some-image.png
+> HTTP/1.1 200 OK
+> Expires: Fri, 01 Jan 1984 00:00:00 GMT
+> Content-Type: image/png
+> Content-Length: 2339
+> Server: Jetty(8.y.z-SNAPSHOT)
